@@ -1,0 +1,12 @@
+SETUP / INSTRUCTIONS
+
+1. Install Java JDK 8+.
+2. Open project in any Java IDE.
+3. Compile: javac Main.java
+4. Run: java Main
+5. Login as Owner or Cashier.
+6. Manage stock and generate bills.
+
+Owner Login:
+Username: Krithik
+Password: 2222
